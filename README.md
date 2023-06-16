@@ -5,7 +5,7 @@ Fork on GitHub2909
 <h1 align="center">Hi 👋, I'm Gustavo Lohmann Linz</h1>
 <h3 align="center">A passionate Back-end and Front-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Cluster Tech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gustavolohmann](https://github.com/gustavolohmann)
 
