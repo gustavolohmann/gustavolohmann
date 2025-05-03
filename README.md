@@ -16,8 +16,7 @@
 - 🌱 Aprimorando meus conhecimentos em **Node.js, Vue.js e Python**
 - 💬 Fale comigo sobre: **PHP, JavaScript, Python, Vue.js, Node.js, HTML, CSS**
 - 📫 Entre em contato: **gustavolohmannlinz@gmail.com**
-- 💼 Meu portfólio: [github.com/gustavolohmann](https://github.com/gustavolohmann)
-- ⚡ Curiosidade: **Amo batatas de todos os tipos 🍟🥔**
+- 💼 Meu portfólio: [github.com/gustavolohmann](https://gustavolohmann.github.io/portifolio-web/)
 
 ---
 
